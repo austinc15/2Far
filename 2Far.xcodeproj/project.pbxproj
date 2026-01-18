@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		3C6594152F1CABE800C6E305 /* .gitignore  in Resources */ = {isa = PBXBuildFile; fileRef = 3C6594142F1CABE400C6E305 /* .gitignore  */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		3C21B2962E9CBC1000FDB433 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		3C21B2882E9CBC0F00FDB433 /* 2Far.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2Far.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C21B2952E9CBC1000FDB433 /* 2FarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2FarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C21B29F2E9CBC1000FDB433 /* 2FarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 2FarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C6594142F1CABE400C6E305 /* .gitignore  */ = {isa = PBXFileReference; lastKnownFileType = text; path = ".gitignore "; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		3C21B27F2E9CBC0F00FDB433 = {
 			isa = PBXGroup;
 			children = (
+				3C6594142F1CABE400C6E305 /* .gitignore  */,
 				3C21B28A2E9CBC0F00FDB433 /* 2Far */,
 				3C21B2982E9CBC1000FDB433 /* 2FarTests */,
 				3C21B2A22E9CBC1000FDB433 /* 2FarUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C6594152F1CABE800C6E305 /* .gitignore  in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

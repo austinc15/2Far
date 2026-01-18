@@ -4,6 +4,8 @@
 //
 //  Created by Charles Thomas Xavier Austin III on 10/13/25.
 //
+// Initial project setup
+
 
 import SwiftUI
 
